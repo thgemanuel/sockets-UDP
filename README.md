@@ -1,4 +1,4 @@
-# Conexao Cliente Servidor TPC
+# Sockets UDP
 
 Trabalho proposto na disciplina de Programação em redes, desenvolvido pelo aluno Thiago Emanuel Silva Antunes Lopes, estudante do curso de Bacharelado em Ciência da Computação do IFNMG Campus Montes Claros.
 
